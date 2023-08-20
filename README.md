@@ -7,3 +7,5 @@
   - [Task 2: Adding CSS Styles]
   - [Task 3: Integrating JavaScript Functionalities]
 
+#commits
+- [adding comments to index.html]
